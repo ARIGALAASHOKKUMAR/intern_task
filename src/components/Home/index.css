@@ -1,0 +1,32 @@
+h1 {
+  color: black;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid darkgray;
+  margin: 2px;
+}
+
+.align {
+  text-align: center;
+}
+img {
+  border-radius: 40px;
+  margin: 10px;
+  width: 30%;
+  margin: 20px;
+}
+.align button {
+  background-color: blue;
+  width: 30%;
+}
+p {
+  font-weight: bold;
+  width: 50%;
+  text-align: center;
+  align-self: center;
+  padding: 20px;
+  overflow-wrap: break-word;
+}
